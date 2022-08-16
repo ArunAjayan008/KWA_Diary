@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "757049501746",
+    "firebase_url": "https://kwa-diary-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kwa-diary",
+    "storage_bucket": "kwa-diary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757049501746:android:bf58c75a4ba0f90fd3b42b",
+        "android_client_info": {
+          "package_name": "com.example.kwadiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757049501746-irulnrg7ji0dk0glpdbbe9q6f0d0pdo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf72pVu7dCyXift2cftAl_EJnD3AkBSM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757049501746-irulnrg7ji0dk0glpdbbe9q6f0d0pdo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

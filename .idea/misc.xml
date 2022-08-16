@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Android/KWAapp/app/src/main/res/drawable/toolbar_bg.xml" value="0.2203125" />
+        <entry key="..\:/Projects/Android/KWAapp/app/src/main/res/layout/activity_division.xml" value="0.25" />
+        <entry key="..\:/Projects/Android/KWAapp/app/src/main/res/layout/activity_division_contact.xml" value="0.25" />
+        <entry key="..\:/Projects/Android/KWAapp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Projects/Android/KWAapp/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/Projects/Android/KWAapp/app/src/main/res/layout/activity_sec_contact.xml" value="0.22" />
+        <entry key="..\:/Projects/Android/KWAapp/app/src/main/res/layout/activity_sub_div_contact.xml" value="0.33" />
+        <entry key="..\:/Projects/Android/KWAapp/app/src/main/res/layout/activity_sub_division.xml" value="0.5" />
+        <entry key="..\:/Projects/Android/KWAapp/app/src/main/res/layout/adapter_districts.xml" value="0.2" />
+        <entry key="..\:/Projects/Android/KWAapp/app/src/main/res/layout/adapter_div_contact.xml" value="0.25" />
+        <entry key="..\:/Projects/Android/KWAapp/app/src/main/res/layout/adapter_divisions.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/Android/KWAapp/app/src/main/res/layout/adapter_subdivisions.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
